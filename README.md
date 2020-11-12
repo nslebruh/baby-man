@@ -1,6 +1,4 @@
 # hello you stinky bastards
+Leave.
 
-leave.
-
-there is nothing here for you
-### leave
+There is nothing here for you
